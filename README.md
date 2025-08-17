@@ -24,7 +24,7 @@ cursor-workspace/
 - **전체**: 약 27% 완료
 
 ### 상세 현황
-자세한 프로젝트 현황은 [PROJECTS.md](PROJECTS.md)를 참조하세요.
+자세한 프로젝트 현황은 [PROJECTS.md](https://github.com/constant94-dev/cursor-workspace/blob/main/PROJECTS.md)를 참조하세요.
 
 ## 📚 문서 가이드
 
@@ -79,7 +79,7 @@ cursor-workspace/
 3. Pull Request 생성
 
 ### 새 프로젝트 추가
-1. 프로젝트 정보를 [PROJECTS.md](PROJECTS.md)에 추가
+1. 프로젝트 정보를 [PROJECTS.md](https://github.com/constant94-dev/cursor-workspace/blob/main/PROJECTS.md)에 추가
 2. 관련 문서 생성
 3. 아키텍처 문서 업데이트
 
