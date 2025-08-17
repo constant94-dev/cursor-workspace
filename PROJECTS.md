@@ -60,21 +60,21 @@ MCP (Model Context Protocol) Tools를 활용한 다양한 프로젝트들을 관
 - **목적**: 공공데이터 API를 활용한 MCP 서버 개발
 - **기술 스택**: Java 21, MCP Java SDK, Gradle, Docker
 - **상태**: 기본 구조 완성 (40% 진행률)
-- **컨텍스트**: [public-data-mcp-server/CONTEXT.md](../public-data-mcp-server/CONTEXT.md)
+- **컨텍스트**: [public-data-mcp-server/CONTEXT.md](https://github.com/constant94-dev/public-data-mcp-server/blob/main/CONTEXT.md)
 - **다음 단계**: 공공데이터포털 API 연동
 
 ### 2. spring-boot-mcp-integration
 - **목적**: Spring Boot 기반 백엔드 서버 (MCP 통합)
 - **기술 스택**: Spring Boot 3.4.0, Java 21, Redis, JPA, Gradle
 - **상태**: 프로젝트 구조 완성 (30% 진행률)
-- **컨텍스트**: [spring-boot-mcp-integration/CONTEXT.md](../spring-boot-mcp-integration/CONTEXT.md)
+- **컨텍스트**: [spring-boot-mcp-integration/CONTEXT.md](https://github.com/constant94-dev/spring-boot-mcp-integration/blob/main/CONTEXT.md)
 - **다음 단계**: 기본 엔티티 및 API 구현
 
 ### 3. vue-mcp-integration
 - **목적**: Vue.js 기반 프론트엔드 클라이언트
 - **기술 스택**: Vue.js 3, TypeScript, Nuxt.js (예정)
 - **상태**: 프로젝트 기반 설정 완료 (10% 진행률)
-- **컨텍스트**: [vue-mcp-integration/CONTEXT.md](../vue-mcp-integration/CONTEXT.md)
+- **컨텍스트**: [vue-mcp-integration/CONTEXT.md](https://github.com/constant94-dev/vue-mcp-integration/blob/main/CONTEXT.md)
 - **다음 단계**: Nuxt.js 프로젝트 생성
 
 ## 📊 전체 진행률
